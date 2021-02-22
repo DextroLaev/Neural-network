@@ -1,4 +1,4 @@
-# Neural-network-scracth-
+# Neural-network-scratch
 XOR gate neural network from scratch using NUMPY library
 
 # Structure of the network
